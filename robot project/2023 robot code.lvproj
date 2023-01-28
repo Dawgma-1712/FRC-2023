@@ -112,6 +112,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Swerve ShouldReverse.vi" Type="VI" URL="../Swerve ShouldReverse.vi"/>
 				<Item Name="Swerve Math.vi" Type="VI" URL="../Swerve Math.vi"/>
 				<Item Name="newOdometry.vi" Type="VI" URL="../newOdometry.vi"/>
+				<Item Name="holdangle.vi" Type="VI" URL="../holdangle.vi"/>
 			</Item>
 			<Item Name="failed tests" Type="Folder">
 				<Item Name="moduleGet.vi" Type="VI" URL="../moduleGet.vi"/>
@@ -121,6 +122,7 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="swerveImmForAuto.vi" Type="VI" URL="../swerveImmForAuto.vi"/>
 			<Item Name="rotateAroundModule.vi" Type="VI" URL="../rotateAroundModule.vi"/>
+			<Item Name="Swerve Post (1).vi" Type="VI" URL="../Swerve Post (1).vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
