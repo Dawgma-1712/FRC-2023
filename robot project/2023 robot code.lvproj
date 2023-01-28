@@ -113,6 +113,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Swerve Math.vi" Type="VI" URL="../Swerve Math.vi"/>
 				<Item Name="newOdometry.vi" Type="VI" URL="../newOdometry.vi"/>
 				<Item Name="holdangle.vi" Type="VI" URL="../holdangle.vi"/>
+				<Item Name="smartAddition.vi" Type="VI" URL="../smartAddition.vi"/>
 			</Item>
 			<Item Name="failed tests" Type="Folder">
 				<Item Name="moduleGet.vi" Type="VI" URL="../moduleGet.vi"/>
