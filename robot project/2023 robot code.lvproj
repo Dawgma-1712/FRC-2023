@@ -101,16 +101,29 @@ AddOutputFilter chunkFilter
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="swerve stuff :)" Type="Folder">
-			<Item Name="goodEnough" Type="VI" URL="../goodEnough"/>
-			<Item Name="goToAngle.vi" Type="VI" URL="../goToAngle.vi"/>
-			<Item Name="goToPoint.vi" Type="VI" URL="../goToPoint.vi"/>
-			<Item Name="moduleGet.vi" Type="VI" URL="../moduleGet.vi"/>
-			<Item Name="newOdometry.vi" Type="VI" URL="../newOdometry.vi"/>
-			<Item Name="pathhandler.vi" Type="VI" URL="../pathhandler.vi"/>
-			<Item Name="swapxy.vi" Type="VI" URL="../swapxy.vi"/>
-			<Item Name="Swerve Math.vi" Type="VI" URL="../Swerve Math.vi"/>
-			<Item Name="Swerve ShouldReverse.vi" Type="VI" URL="../Swerve ShouldReverse.vi"/>
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="going to area" Type="Folder">
+				<Item Name="autoalignv3.vi" Type="VI" URL="../autoalignv3.vi"/>
+				<Item Name="goToAngle.vi" Type="VI" URL="../goToAngle.vi"/>
+				<Item Name="goToPoint.vi" Type="VI" URL="../goToPoint.vi"/>
+				<Item Name="holdPosition.vi" Type="VI" URL="../holdPosition.vi"/>
+			</Item>
+			<Item Name="math" Type="Folder">
+				<Item Name="Swerve ShouldReverse.vi" Type="VI" URL="../Swerve ShouldReverse.vi"/>
+				<Item Name="Swerve Math.vi" Type="VI" URL="../Swerve Math.vi"/>
+				<Item Name="newOdometry.vi" Type="VI" URL="../newOdometry.vi"/>
+				<Item Name="holdangle.vi" Type="VI" URL="../holdangle.vi"/>
+				<Item Name="smartAddition.vi" Type="VI" URL="../smartAddition.vi"/>
+			</Item>
+			<Item Name="failed tests" Type="Folder">
+				<Item Name="moduleGet.vi" Type="VI" URL="../moduleGet.vi"/>
+				<Item Name="pathhandler.vi" Type="VI" URL="../pathhandler.vi"/>
+				<Item Name="swapxy.vi" Type="VI" URL="../swapxy.vi"/>
+				<Item Name="goodEnough" Type="VI" URL="../goodEnough"/>
+			</Item>
 			<Item Name="swerveImmForAuto.vi" Type="VI" URL="../swerveImmForAuto.vi"/>
+			<Item Name="rotateAroundModule.vi" Type="VI" URL="../rotateAroundModule.vi"/>
+			<Item Name="Swerve Post (1).vi" Type="VI" URL="../Swerve Post (1).vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
