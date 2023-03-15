@@ -768,7 +768,7 @@ AddOutputFilter chunkFilter
 			<Item Name="RATE_CALC.vi" Type="VI" URL="../../../frc/WPIlibMathLabVIEW_Examples-2.12/FRC_Traj_Robot_Sample_5/TestPrograms/RATE_CALC.vi"/>
 			<Item Name="Trajectory_SampleReverseTEST_CONSTORIENT.vi" Type="VI" URL="../../../frc/WPIlibMathLabVIEW_Examples-2.12/FRC_Traj_Robot_Sample_5/TestPrograms/Trajectory_SampleReverseTEST_CONSTORIENT.vi"/>
 			<Item Name="Trajectory_SampleReverseTEST_FOLLOWORIENT.vi" Type="VI" URL="../../../frc/WPIlibMathLabVIEW_Examples-2.12/FRC_Traj_Robot_Sample_5/TestPrograms/Trajectory_SampleReverseTEST_FOLLOWORIENT.vi"/>
-			<Item Name="OneShotPulse.vi" Type="VI" URL="../../../../Desktop/git/FRC-2023/Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
+			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
