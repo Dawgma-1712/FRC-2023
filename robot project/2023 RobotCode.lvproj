@@ -112,6 +112,7 @@ AddOutputFilter chunkFilter
 			<Item Name="goToAngle.vi" Type="VI" URL="../goToAngle.vi"/>
 			<Item Name="goToPoint.vi" Type="VI" URL="../goToPoint.vi"/>
 			<Item Name="swerveImmForAuto.vi" Type="VI" URL="../swerveImmForAuto.vi"/>
+			<Item Name="DriveForTime.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/DriveForTime.vi"/>
 		</Item>
 		<Item Name="Swerve Stuff" Type="Folder">
 			<Item Name="holdPosition.vi" Type="VI" URL="../holdPosition.vi"/>
@@ -806,6 +807,7 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
+			<Item Name="RateLimiter.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/RateLimiter.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -824,7 +826,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
